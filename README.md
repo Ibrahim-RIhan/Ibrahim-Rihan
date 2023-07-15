@@ -1,4 +1,4 @@
-<img align="center"   width="full" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="center" height="200"   width="full" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <h1 align="center">Hi 👋, I'm Ibrahim Rihan</h1>
 <h3 align="center">A passionate web developer</h3>
