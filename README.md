@@ -1,4 +1,6 @@
-<img align="center"  src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif" />
+<div align="center">
+  <img   src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Ibrahim Rihan</h1>
 <h3 align="center">A passionate web developer</h3>
