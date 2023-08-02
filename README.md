@@ -29,7 +29,7 @@
 </div>
 
 
-<div align="center">
+<div  align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-rihan&show_icons=true&locale=en" alt="ibrahim-rihan" /></p>
 </div>
 
