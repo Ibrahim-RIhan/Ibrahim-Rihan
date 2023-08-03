@@ -37,10 +37,10 @@
 
 
 
-<div align="center">
+<p align="center">
 ### 😂 Random Dev Meme
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&align=center)
-</div>
+</p>
 
 
 
