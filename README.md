@@ -51,15 +51,23 @@
 </div>
 
 
-# 📊 GitHub Stats:
-![align="center"](https://github-readme-stats.vercel.app/api?username=Ibrahim-Rihan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Rihan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Rihan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/ibrahim-rihan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" alt="Rihan's GitHub streak"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ibrahim-rihan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariful10&theme=radical" alt=" Rihan's GitHub Contribution"/>
+  </a>
+</p>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ibrahim-Rihan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<a> 
+    <a href="https://github.com/ibrahim-rihan"><img alt="Shariful's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ibrahim-rihan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ibrahim-rihan"><img alt="Shariful's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-rihan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
