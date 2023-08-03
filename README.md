@@ -34,12 +34,12 @@
 
   ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&align=center)
+
 
 
 <div align="center">
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&align=center)
 </div>
 
 
