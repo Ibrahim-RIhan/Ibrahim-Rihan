@@ -41,14 +41,7 @@
 
 
 
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-rihan&show_icons=true&locale=en&layout=compact" alt="ibrahim-rihan" /></p>
-</div>
 
-
-<div  align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-rihan&show_icons=true&locale=en" alt="ibrahim-rihan" /></p>
-</div>
 
 
 <p align="center">
