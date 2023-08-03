@@ -11,11 +11,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ibrahim Rihan</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://ibrahim-rihan-portfolio.web.app/](..)
+- 👨‍💻 All of my projects are available at [https://ibrahim-rihan-portfolio.web.app/](https://ibrahim-rihan-portfolio.web.app/)
 
 - 💬 Ask me about **Web Development**
 
