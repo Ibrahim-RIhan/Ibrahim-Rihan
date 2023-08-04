@@ -12,9 +12,9 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <h2>&gt; Hey There!, I am
+         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/ibrahim-rihan">Ibrahim Rihan</a></b>
-        </h2>
+        </samp>
 </h3>
 
 <p align="center"> 
