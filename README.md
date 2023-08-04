@@ -67,8 +67,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ibrahim-rihan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahim-rihan&theme=radical" alt="Ibrahim-Rihan's GitHub Contribution"/>
+  <a href="https://github.com/Ibrahim-Rihan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Rihan&theme=radical" alt="Ibrahim-Rihan's GitHub Contribution"/>
   </a>
 </p>
 
