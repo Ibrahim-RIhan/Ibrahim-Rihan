@@ -29,9 +29,7 @@
   <a href="https://www.facebook.com/ibrahim.rihan.01" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Rihan"  />
   </a>
-  <a href="https://ibrahim-rihan-portfolio.web.app/" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rihan" />
-  </a>
+ 
   <a href="www.linkedin.com/in/ibrahimrihan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rihan"/>
   </a>
