@@ -10,8 +10,33 @@
   <img   src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Ibrahim Rihan</h1>
-<h3 align="center">A passionate web developer</h3>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://github.com/ibrahim-rihan">Ibrahim Rihan</a></b>
+        </samp>
+</h3>
+
+<p align="center"> 
+  <samp>    
+    「 I am a full stack web developer 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/ibrahim.rihan.01" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Rihan"  />
+  </a>
+  <a href="https://ibrahim-rihan-portfolio.web.app/" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rihan" />
+  </a>
+  <a href="www.linkedin.com/in/ibrahimrihan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rihan"/>
+  </a>
+</p>
+<br />
 
 - 🌱 I’m currently learning **Javascript**
 
